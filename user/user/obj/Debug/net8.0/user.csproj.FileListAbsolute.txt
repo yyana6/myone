@@ -1,0 +1,14 @@
+C:\Users\adoro\source\repos\user\user\bin\Debug\net8.0\user.exe
+C:\Users\adoro\source\repos\user\user\bin\Debug\net8.0\user.deps.json
+C:\Users\adoro\source\repos\user\user\bin\Debug\net8.0\user.runtimeconfig.json
+C:\Users\adoro\source\repos\user\user\bin\Debug\net8.0\user.dll
+C:\Users\adoro\source\repos\user\user\bin\Debug\net8.0\user.pdb
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.AssemblyInfoInputs.cache
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.AssemblyInfo.cs
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.csproj.CoreCompileInputs.cache
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.dll
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\refint\user.dll
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.pdb
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\user.genruntimeconfig.cache
+C:\Users\adoro\source\repos\user\user\obj\Debug\net8.0\ref\user.dll
