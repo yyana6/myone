@@ -1,0 +1,14 @@
+C:\Users\adoro\source\repos\1задание\1задание\bin\Debug\net8.0\1задание.exe
+C:\Users\adoro\source\repos\1задание\1задание\bin\Debug\net8.0\1задание.deps.json
+C:\Users\adoro\source\repos\1задание\1задание\bin\Debug\net8.0\1задание.runtimeconfig.json
+C:\Users\adoro\source\repos\1задание\1задание\bin\Debug\net8.0\1задание.dll
+C:\Users\adoro\source\repos\1задание\1задание\bin\Debug\net8.0\1задание.pdb
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.AssemblyInfoInputs.cache
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.AssemblyInfo.cs
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.csproj.CoreCompileInputs.cache
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.dll
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\refint\1задание.dll
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.pdb
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\1задание.genruntimeconfig.cache
+C:\Users\adoro\source\repos\1задание\1задание\obj\Debug\net8.0\ref\1задание.dll
