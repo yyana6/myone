@@ -1,0 +1,14 @@
+C:\Users\adoro\source\repos\исключения\исключения\bin\Debug\net8.0\исключения.exe
+C:\Users\adoro\source\repos\исключения\исключения\bin\Debug\net8.0\исключения.deps.json
+C:\Users\adoro\source\repos\исключения\исключения\bin\Debug\net8.0\исключения.runtimeconfig.json
+C:\Users\adoro\source\repos\исключения\исключения\bin\Debug\net8.0\исключения.dll
+C:\Users\adoro\source\repos\исключения\исключения\bin\Debug\net8.0\исключения.pdb
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.AssemblyInfoInputs.cache
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.AssemblyInfo.cs
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.csproj.CoreCompileInputs.cache
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.dll
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\refint\исключения.dll
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.pdb
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\исключения.genruntimeconfig.cache
+C:\Users\adoro\source\repos\исключения\исключения\obj\Debug\net8.0\ref\исключения.dll
