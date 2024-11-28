@@ -1,0 +1,11 @@
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\bin\Debug\net8.0\InspectorLib.deps.json
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\bin\Debug\net8.0\InspectorLib.dll
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\bin\Debug\net8.0\InspectorLib.pdb
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.AssemblyInfo.cs
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.dll
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\refint\InspectorLib.dll
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\InspectorLib.pdb
+C:\Users\adoro\source\repos\InspectorLib\InspectorLib\obj\Debug\net8.0\ref\InspectorLib.dll
